@@ -1,6 +1,6 @@
 FROM node:16
 
-WORKDIR  /app
+WORKDIR  /index.html
 
 # Copy package.json and package-lock.json
 COPY package*.json ./

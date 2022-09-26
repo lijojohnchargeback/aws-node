@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /home/ec2-user
+cd /home/ubuntu
 pm2 -f start server.js
